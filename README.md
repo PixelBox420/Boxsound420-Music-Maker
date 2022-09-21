@@ -1,4 +1,4 @@
-Boxsound420 Is a program that ennables people to easily create sheet music.
+Boxsound420 Is a mobile app that ennables people to easily create sheet music.
 The program has over 60 instrumentens, simple sound synthesis, notepad and full theme customization.
 
 This page contains the JavaScript part of the mobile app. Only the default instrument sound file folder is included here.
