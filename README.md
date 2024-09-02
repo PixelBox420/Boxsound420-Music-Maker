@@ -4,5 +4,5 @@ The program has over 60 instrumentens, simple sound synthesis, notepad and full 
 This page contains the JavaScript part of the mobile app. Only the default instrument sound file folder is included here.
 The mobile app also includes massive ammount of java code used for internall audio recording, app optimization and UI functionality.
 
-Copyright for the app code belongs to Elias puolakka.
+Copyright for the app code belongs to Elias puolakka. (Copyright © Elias Puolakka 2022-2024.)
 Any unathorized use of the code shall result in agressive litigation in Finland, United states or other countries. 
